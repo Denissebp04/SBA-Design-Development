@@ -1,0 +1,65 @@
+*{
+    font-family: "Bai Jamjuree", sans-serif;
+}
+
+body{
+    background-image: url("images/bg-header-desktop.png");
+    background-size: cover;
+    text-align: center;
+    font-size: 18px;
+}
+
+.body-minus-footer{
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+
+.btn{
+    border-radius: 70px;
+    border: none;
+    margin-top: 20px;
+    margin-bottom: 150px;
+}
+
+.btn-primary{
+    background-color: hsl(171, 66%, 44%);
+    box-shadow: hsl(180, 30%, 77%) 2px 5px 5px;
+    margin-right: 10px;
+
+}
+
+.btn-success{
+    background-color: hsl(233, 100%, 69%);
+    box-shadow: hsl(214, 27%, 82%) 2px 5px 5px;
+}
+
+#computer{
+    margin-right: 70px;
+}
+
+#computer-text{
+    margin-top: 200px;
+}
+
+footer{
+    background-color: hsl(193, 21%, 92%);
+}
+
+
+
+#top-img{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.d-inline-flex .p-2{
+    margin-left: 200px;
+}
+
+#img-bottom{
+    height: 80px;
+    width: 80px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
